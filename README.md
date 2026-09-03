@@ -1,5 +1,7 @@
 ## 👋 Hi, I'm Akash
 
+🌐 **Visit my Portfolio: [akashgupta.dev](https://akashgupta.dev)**
+
 ### I'm an eventually consistent full-stack developer with a strong focus at the intersection of complex architecture and clean UI, producing high-quality digital experiences. I build things that scale.
 
 I am a Full-Stack Engineer specializing in Next.js, TypeScript, and modern cloud ecosystems. I focus on navigating complex Fortune 500 codebases, optimizing high-volume data workflows, and implementing automated CI/CD pipelines to deliver high-performance, maintainable systems.
@@ -22,6 +24,6 @@ I am a Full-Stack Engineer specializing in Next.js, TypeScript, and modern cloud
 *   **SaaS AI Companion Platform:** Built a full-stack platform utilizing the LangChain framework and Llama-2, implementing persistent conversational memory and efficient prompt processing to optimize LLM inference latency.
 
 ## 📫 Let's Connect
-- **LinkedIn:** https://www.linkedin.com/in/akash-gupta-12262a1b7
-- **Portfolio:** https://akashgupta.dev
+- **LinkedIn:** [Akash Gupta](https://www.linkedin.com/in/akash-gupta-12262a1b7)
+- **Portfolio:** [akashgupta.dev](https://akashgupta.dev)
 - **Email:** akashgupta4510@gmail.com
