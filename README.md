@@ -4,6 +4,21 @@
 
 ### I'm an eventually consistent full-stack developer bridging the gap between complex architecture and clean UI.
 
+<p align="left">
+  <a href="https://akashgupta.dev">
+    <img src="https://img.shields.io/badge/Portfolio-akashgupta.dev-171515?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/akash-gupta-12262a1b7">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://raw.githubusercontent.com/Akash4510/resume-as-code/master/resumes/Akash_Gupta_CV.pdf">
+    <img src="https://img.shields.io/badge/Resume-View_PDF-000000?style=flat-square&logo=read-the-docs&logoColor=white" alt="Resume" />
+  </a>
+  <a href="mailto:akashgupta4510@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 What I'm Up To
