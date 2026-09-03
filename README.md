@@ -11,7 +11,7 @@ I specialize in hiding scalable, heavy-lifting engineering underneath beautiful,
 - 🌱 **Currently Learning:** Deep diving into C++ to implement data structures and algorithms from scratch.
 - 👯 **Mentoring:** Guiding junior developers on my team through modern JavaScript, React, and Next.js workflows.
 
-## 💻 Tech Stack
+## 💻 Tech Stack I'm Good At
 - **Frontend & Mobile:** Next.js, React, React Native, Tailwind CSS, Zustand, TanStack React Query, Framer Motion, GSAP
 - **Backend & Databases:** Node.js, Express.js, Flask, PostgreSQL, MongoDB, Prisma ORM, REST & GraphQL APIs
 - **Languages:** TypeScript, JavaScript, Python, C++, C
