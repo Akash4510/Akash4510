@@ -2,9 +2,9 @@
 
 🌐 **Visit my Portfolio: [akashgupta.dev](https://akashgupta.dev)**
 
-### I'm an eventually consistent full-stack developer with a strong focus at the intersection of complex architecture and clean UI. I build things that scale.
+### I'm an eventually consistent full-stack developer bridging the gap between complex architecture and clean UI.
 
-I am a Full-Stack Engineer who loves hiding highly complex, scalable engineering solutions underneath beautiful and seamless user experiences. I focus heavily on system design and writing clean, maintainable code.
+I specialize in hiding scalable, heavy-lifting engineering underneath beautiful, seamless user experiences. Whether I'm designing backend systems or crafting interactive interfaces, my focus is always on robust system design, writing maintainable code, and building things that scale.
 
 ## 🚀 What I'm Up To
 - 🏗️ **Engineering Focus:** Architecting robust full-stack applications with a strong emphasis on seamless UI/UX and resilient system design.
