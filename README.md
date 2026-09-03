@@ -2,34 +2,19 @@
 
 🌐 **Visit my Portfolio: [akashgupta.dev](https://akashgupta.dev)**
 
-### I'm an eventually consistent full-stack developer bridging the gap between complex architecture and clean UI.
-
-<p align="left">
-  <a href="https://akashgupta.dev">
-    <img src="https://img.shields.io/badge/Portfolio-akashgupta.dev-171515?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/akash-gupta-12262a1b7">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://raw.githubusercontent.com/Akash4510/resume-as-code/master/resumes/Akash_Gupta_CV.pdf">
-    <img src="https://img.shields.io/badge/Resume-View_PDF-000000?style=flat-square&logo=read-the-docs&logoColor=white" alt="Resume" />
-  </a>
-  <a href="mailto:akashgupta4510@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+### I'm an eventually consistent full-stack developer bridging the gap between complex architecture and clean UI
 
 ---
 
-## 🚀 What I'm Up To
+### 🚀 What I'm Up To
 
-- 🏗️ **Engineering Focus:** I specialize in hiding scalable, heavy-lifting engineering underneath beautiful, seamless user experiences. Whether I'm designing backend systems or crafting interactive interfaces, my focus is always on robust system design, writing maintainable code, and building things that scale.
+- ⚙️ **Engineering Focus:** Hiding complex, scalable architecture underneath fluid, intuitive interfaces with an emphasis on maintainability, robust system design and building things that scale.
 - 🌱 **Currently Exploring:** Deep diving into C++, memory management, low-level data structures & algorithms from scratch, and High-Level/Low-Level System Design.
 - 👥 **Mentorship:** Guiding other developers on my team through modern JavaScript, React, and Next.js workflows.
 
 ---
 
-## 🛠️ Core Tech Matrix
+### 🛠️ Core Tech Matrix
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
@@ -40,10 +25,12 @@
 
 ---
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 
 * 🌐 **Portfolio:** [akashgupta.dev](https://akashgupta.dev)
 * 💼 **LinkedIn:** [linkedin.com/in/akash-gupta-12262a1b7](https://www.linkedin.com/in/akash-gupta-12262a1b7)
 * 📧 **Direct Inbox:** [akashgupta4510@gmail.com](mailto:akashgupta4510@gmail.com)
 
-* 📄 **My Resume:** [Akash_Gupta_CV.pdf](https://raw.githubusercontent.com/Akash4510/resume-as-code/master/resumes/Akash_Gupta_CV.pdf)
+---
+
+#### 📄 **My Resume:** [Akash_Gupta_CV.pdf](https://raw.githubusercontent.com/Akash4510/resume-as-code/master/resumes/Akash_Gupta_CV.pdf)
