@@ -21,3 +21,4 @@ I specialize in hiding scalable, heavy-lifting engineering underneath beautiful,
 - **LinkedIn:** [Akash Gupta](https://www.linkedin.com/in/akash-gupta-12262a1b7)
 - **Portfolio:** [akashgupta.dev](https://akashgupta.dev)
 - **Email:** akashgupta4510@gmail.com
+- **Resume:** - [Akash_Gupta_CV.pdf](https://raw.githubusercontent.com/Akash4510/resume-as-code/master/resumes/Akash_Gupta_CV.pdf)
