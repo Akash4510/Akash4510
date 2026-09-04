@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 What I'm Up To
+## 🚀 What I'm Up To
 
 - ⚙️ **Engineering Focus:** Hiding complex, scalable architecture underneath fluid, intuitive interfaces with an emphasis on maintainability, robust system design and building things that scale.
 - 🌱 **Currently Exploring:** Deep diving into C++, memory management, low-level data structures & algorithms from scratch, and High-Level/Low-Level System Design.
@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Core Tech Matrix
+## 🛠️ Core Tech Matrix
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
@@ -25,7 +25,7 @@
 
 ---
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
 * 🌐 **Portfolio:** [akashgupta.dev](https://akashgupta.dev)
 * 💼 **LinkedIn:** [linkedin.com/in/akash-gupta-12262a1b7](https://www.linkedin.com/in/akash-gupta-12262a1b7)
